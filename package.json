@@ -1,0 +1,34 @@
+{
+  "name": "rocklee",
+  "displayName": "Rocklee VSCode Theme",
+  "description": "rocklee the theme! the name is taken from the all famous anime naruto. this theme is also inspired by his outfits. mainly it's is a modified version of vegetable(rainglow) theme.",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "icon.png",
+  "publisher": "MdTalhaZubayer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MdTalhaZubayer/rocklee"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "rocklee",
+    "rocklee theme",
+    "rocklee dark theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rocklee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rocklee-color-theme.json"
+      }
+    ]
+  }
+}
