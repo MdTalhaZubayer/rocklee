@@ -117,12 +117,12 @@
     "editorSuggestWidget.highlightForeground": "#f0a56c",
     "editorSuggestWidget.foreground": "#e2dcdd",
     "editorSuggestWidget.selectedBackground": "#645557",
-    "editorBracketHighlight.foreground1": "#bef8cf",
-    "editorBracketHighlight.foreground2": "#c1e57f",
-    "editorBracketHighlight.foreground3": "#71dbec",
-    "editorBracketHighlight.foreground4": "#7191eb",
-    "editorBracketHighlight.foreground5": "#f56183",
-    "editorBracketHighlight.foreground6": "#ac82f5"
+    "editorBracketHighlight.foreground1": "#A09ABC",
+    "editorBracketHighlight.foreground2": "#B6A6CA",
+    "editorBracketHighlight.foreground3": "#6F8F72",
+    "editorBracketHighlight.foreground4": "#C4BBAF",
+    "editorBracketHighlight.foreground5": "#D4BEBE",
+    "editorBracketHighlight.foreground6": "#A3B18A"
   },
   "tokenColors": [
     {
