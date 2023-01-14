@@ -25,10 +25,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "rocklee",
+        "label": "Rocklee Brackets",
         "uiTheme": "vs-dark",
-        "path": "./themes/rocklee-color-theme.json"
+        "path": "./themes/rocklee-brackets.json"
+      },
+      {
+        "label": "Rocklee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rocklee.json"
       }
+
     ]
   }
 }
