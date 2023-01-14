@@ -409,7 +409,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e2dcdd"
+        "foreground": "#f4c0f7a6"
       }
     },
     {
@@ -554,7 +554,9 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#c37ec8d2"
+        // "foreground": "#c37ec8d2"
+        "foreground": "#b17dc4fb"
+        // "foreground": "#f4c0f7a6"
       }
     },
     {
